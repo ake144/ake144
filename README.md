@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aklilu Tamirat</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate Full stack web developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://pixabay.com/vectors/programmer-programming-code-work-1653351/" alt="ake144" /> </p>
 
