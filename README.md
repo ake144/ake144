@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **different projects**
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **something different**
 
 - 💬 Ask me about **react, django**
 
