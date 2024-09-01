@@ -28,6 +28,9 @@
 
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
+  <a href='htttps://nextjs.org/' target="_blank" rel="noreferrer"> 
+    <img  src='https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg'   alt='Nextjs'  width='40'   height='40'  />
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
   </a>
