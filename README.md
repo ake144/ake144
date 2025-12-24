@@ -1,56 +1,67 @@
-<h1 align="center">Hi there 👋, I'm Aklilu Tamirat</h1>
-<h3 align="center">A Passionate Full Stack Developer from Ethiopia 🌍</h3>
+<h1 align="center">
+  Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24"/>, I'm Aklilu Tamirat
+</h1>
+<h3 align="center">Full-Stack Engineer | AI Enthusiast | Based in Ethiopia 🌍</h3>
 
 <p align="center">
-  <img src="https://pixabay.com/vectors/programmer-programming-code-work-1653351/" alt="Programming Illustration" width="400"/>
+  <img src="https://github.com/ake144/ake144/assets/header.svg" alt="Header" width="600"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ake144&label=Profile%20views&color=0e75b6&style=flat" alt="ake144 profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ake144&label=PROFILE+VIEWS&style=flat-square&color=006bed" alt="Profile Views"/>
 </p>
 
 ---
 
-👨‍💻 I'm currently a **Full Stack Developer** focused on building cutting-edge web applications with **Next.js, JavaScript, and AI technologies**. I love experimenting with various CSS frameworks and libraries to create beautiful, responsive, and efficient user interfaces.
+### 🚀 About Me
+I architect and ship scalable web applications with **Next.js**, **TypeScript**, and **AI-driven features**. My focus is on performance, accessibility, and pixel-perfect UI.
 
-- 🔭 Currently working on exciting projects in **Next.js, AI development, and more**.
-- 🌱 Constantly learning and diving deeper into **advanced JavaScript frameworks, AI, and modern web technologies**.
-- 💬 Ask me about **React, Django, JavaScript, and web development**.
-- 📫 Reach out to me at **[tamiratake@gmail.com](mailto:tamiratake@gmail.com)**.
+- 🔭 Currently building **intelligent SaaS products** with Next.js 14, tRPC, and OpenAI.
+- 🌱 Exploring **edge computing**, **LLM fine-tuning**, and **TypeScript at scale**.
+- 💬 Ask me about **React Server Components**, **Django internals**, or **prompt engineering**.
+- 📫 Drop me a line at **tamiratake@gmail.com**—I reply within 24 h.
 
 ---
 
-<h3 align="left">🌐 Connect with Me:</h3>
+### 🌐 Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/akeja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/aketame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">💻 Languages and Tools:</h3>
-<p align="left">
-  <a href='htttps://nextjs.org/' target="_blank" rel="noreferrer"> 
-    <img  src='https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg'   alt='Nextjs'  width='40'   height='40'  />
+  <a href="https://linkedin.com/in/akeja" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  <a href="https://leetcode.com/aketame" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
+  <a href="https://twitter.com/ake144" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ake144&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+### 💻 Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
 
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ake144&" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ake144&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ake144&theme=react&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=006bed&height=60&section=footer"/>
 </p>
