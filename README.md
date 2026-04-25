@@ -40,7 +40,7 @@ I’m especially passionate about:
 - Framer Motion (when it adds real value)
 
 #### Backend
-- Node.js, API Routes, REST
+- Node.js, Fast API, Spring Boot, REST
 - Prisma ORM
 - MySQL, PostgreSQL, Redis
 - Webhooks & background jobs
